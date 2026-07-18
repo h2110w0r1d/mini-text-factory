@@ -1,3 +1,13 @@
-name: mini-text-factory
-It receives something like: "   How   Do I Cook Rice?   ", cooking
-It outputs something like: how do i cook rice?, cooking
+# Mini Text Factory
+
+## Input
+
+A text-label pair such as:
+
+`"   How   Do I Cook Rice?   ", cooking`
+
+## Output
+
+A normalized text-label pair such as:
+
+`"how do i cook rice?", cooking`
